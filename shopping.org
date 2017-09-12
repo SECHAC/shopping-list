@@ -1,0 +1,39 @@
+#+TITLE: Grillcon Shoppinglista
+
+|------------------+------------+------+-----------------|
+| Vad              | Antal      | Pris | Kommentar       |
+|------------------+------------+------+-----------------|
+| Grillkol         | 2 (säckar) |   50 |                 |
+| Briketter        | 2 (säckar) |   50 |                 |
+| Ved              | 2 (säckar) |  100 |                 |
+| Tändvätska       |            |      | Finns kvar      |
+| Tändare          |            |      | Finns kvar      |
+| Lådor            | 15         |  150 |                 |
+| Hushållspapper   | 1 (rulle)  |      |                 |
+| Papptallrikar    |            |      | Finns kvar      |
+| Denniskorv       | 80 (st)    |  200 |                 |
+| Korvbröd         | 80 (st)    |  150 |                 |
+| Ketchup          |            |   30 |                 |
+| Senap            |            |   30 |                 |
+| Grillspett       | 300 (st)   |   60 | Finns kvar      |
+| Bacon            | 12 (paket) |  200 |                 |
+| Köttbullar       | 2 (kg)     |  100 |                 |
+| Fläskytterfilé   | 4 (st)     |  250 | Färdigmarinerad |
+| Kryddig korv     | 3 (paket)  |  150 |                 |
+| Lök              |            |   15 |                 |
+| Champinjoner     |            |   40 |                 |
+| Körsbärstomater  | 4 (paket)  |   60 |                 |
+| Paprika          | 3 (paket)  |   30 |                 |
+| Zuccini          | 2 (st)     |   40 |                 |
+| Ananas           | 2 (st)     |   40 |                 |
+| Majs             | 2 (paket)  |   40 | Hel, förkokt    |
+| Halloumi         | 2 (st)     |   50 |                 |
+| Blandad burkläsk | 6 (flak)   |  600 |                 |
+| Mariekex         | 4 (paket)  |   80 |                 |
+| Marshmallows     | 3 (paket)  |   80 |                 |
+| Noblesse         | 8 (paket)  |  200 |                 |
+| Något chokladigt |            |  200 |                 |
+|------------------+------------+------+-----------------|
+| Totalt           |            | 2995 |                 |
+|------------------+------------+------+-----------------|
+#+TBLFM: @>$3=vsum(@2..@-1)
