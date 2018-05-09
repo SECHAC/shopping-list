@@ -1,0 +1,25 @@
+#+TITLE: Grillcon Lager
+
+| Vad             | Antal        | Kommentar |
+|-----------------+--------------+-----------|
+| Cola            | 1 Flak (x24) |           |
+| Vatten          | 2 Flak (x18) |           |
+| Läsk Blandat    | 1 Flak (x24) |           |
+| Mariekex        | 1 paket      |           |
+| Cachew Nötter   | 7 Påsar      |           |
+| Blandade Nötter | 3 Påsar      |           |
+| Pistage Nötter  | 4 Påsar      |           |
+| Mandel          | 3 Påsar      |           |
+| Kokoschips      | 4 Påsar      |           |
+| Dadlar          | 2 Påsar      |           |
+| Torkad Frukt    | 3 Påsar      |           |
+| Fikon           | 2 Påsar      |           |
+| Tändvätska      | ½ Flaska     |           |
+| Tändstickor     | 1 Ask        |           |
+| Grillspett      | 300 pinnar   |           |
+| Hushållspapper  | 1 Rulle      |           |
+| Lådor(stora)    | 4 st         |           |
+| Sopsäckar       | ½ Rulle      |           |
+
+
+
