@@ -18,10 +18,10 @@
 | Ketchup          |            |   30 |                 |
 | Senap            |            |   30 |                 |
 | Grillspett       | 300 (st)   |   60 | Finns kvar      |
-| Bacon            | 12 (paket) |  200 |                 |
+| Bacon            | 9 (paket)  |  150 |                 |
 | Köttbullar       | 2 (kg)     |  100 |                 |
 | Fläskytterfilé   | 4 (st)     |  250 | Färdigmarinerad |
-| Kryddig korv     | 3 (paket)  |  150 |                 |
+| Kryddig korv     | 6 (paket)  |  300 |                 |
 | Lök              |            |   15 |                 |
 | Champinjoner     |            |   40 |                 |
 | Körsbärstomater  | 4 (paket)  |   60 |                 |
@@ -31,12 +31,12 @@
 | Majs             | 2 (paket)  |   40 | Hel, förkokt    |
 | Halloumi         | 2 (st)     |   50 |                 |
 | Blandad burkläsk | 6 (flak)   |  600 |                 |
-| Mariekex         | 4 (paket)  |   80 |                 |
+| Mariekex         | 2 (paket)  |   40 |                 |
 | Marshmallows     | 3 (paket)  |   80 |                 |
 | Noblesse         | 8 (paket)  |  200 |                 |
 | Något chokladigt |            |  200 |                 |
 |------------------+------------+------+-----------------|
-| Totalt           |            | 2995 |                 |
+| Totalt           |            | 3055 |                 |
 |------------------+------------+------+-----------------|
 #+TBLFM: @>$3=vsum(@2..@-1)
 
